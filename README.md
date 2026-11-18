@@ -17,10 +17,10 @@ Yüngül, onlayn işləyən Android emulator simulyasiyası. İçində təkcə *
 ## 📸 Screenshots
 
 ### Ana Ekran - Təkcə Clash of Clans
-[Ana Ekran](screenshots/01-home.png)
+[Ana Ekran](screenshots/01-home.jpg)
 
 ### Kənd - Town Hall
-[Kənd](screenshots/02-village.png)
+[Kənd](screenshots/02-village.jpg)
 
 ## 🚀 Necə işlətmək olar?
 
